@@ -1,0 +1,15 @@
+{
+    "name": "ruthi/03_good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruth James",
+            "email": "84787216+Ruthiejayjay@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
